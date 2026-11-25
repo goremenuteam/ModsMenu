@@ -1,12 +1,12 @@
 [
   {
     "name": "Mods Menu (In dev)",
-    "download_url": "https://github.com/goremenuteam/ModsMenu/releases/download/latest/ModsMenu.dll",
+    "download_url": "https://github.com/goremenuteam/ModsMenu/releases/latest/download/ModsMenu.dll",
     "icon": "https://raw.githubusercontent.com/goremenuteam/ModsMenu/refs/heads/main/mods-manager/Mods/icons/MM_render.png"
   },
   {
     "name": "Seralyth Remake",
-    "download_url": "https://github.com/1x1x1x1736/api/releases/download/latest/Seralyth.Remake.Debug.dll",
+    "download_url": "https://github.com/1x1x1x1736/api/releases/latest/download/Seralyth.Remake.Debug.dll",
     "icon": "https://raw.githubusercontent.com/goremenuteam/ModsMenu/refs/heads/main/mods-manager/Mods/icons/sr.png"
   }
 ]
